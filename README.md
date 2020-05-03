@@ -16,6 +16,9 @@ An app that plots line chart by measuring 6 pollutants (CO, O3, NO2, SO2) in Seo
 + AmCharts 4
 + PapaParse
 
+![Line Chart](https://img.techpowerup.org/200503/screenshot-2020-05-03-at-4-12-48-pm.png)
+![Line Chart with Input Error Handling](https://img.techpowerup.org/200503/screenshot-2020-05-03-at-5-04-43-pm.png)
+
 ### Getting Started
 
 `npm install lite-server -g`
@@ -25,7 +28,7 @@ clone repo
 `cd` into folder and run `lite-server`
 
 # Live Version
-#### URL: [Get Insight from Data](https://restaurant.ayezahmed.now.sh )
+#### URL: [Get Insight from Data (It might take few mins to load due to large CSV file)](https://chart-app.now.sh/ )
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
