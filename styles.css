@@ -1,0 +1,78 @@
+body {
+	color: #333;
+	font-family: Arial;
+}
+
+h1 {
+	margin-top: 12px !important;
+	text-align: center;
+}
+
+select {
+	height: 34.63px !important;
+}
+
+.ui.popup.calendar.bottom {
+	font-size: 13px;
+}
+
+#error-message {
+	display: none;
+	margin-top: 0;
+}
+
+#error-message .header {
+	text-align: left;
+}
+
+.time-period{
+	font-size: 20px;
+}
+
+#chartdiv {
+	width: 100%;
+	height: 585px;
+}
+
+.loader-wrapper {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.loader-wrapper span {
+	margin-top: 1rem;
+	font-family: Lato;
+	display: block;
+}
+
+.searchBtn{
+	width: 100%;
+}
+
+.ui.stackable.grid>.row>.wide.column label {
+	display: none;
+}
+
+.ui.stackable.grid>.row>.wide.column .ui.input.left.icon{
+	width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+	.three.wide.column {
+		padding-top: 0 !important;
+	}
+	h1 {
+		margin-bottom: 20px;
+	}
+}
+
+
+
+
+
+
