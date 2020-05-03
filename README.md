@@ -28,7 +28,7 @@ clone repo
 `cd` into folder and run `lite-server`
 
 # Live Version
-#### URL: [Get Insight from Data (It might take few mins to load due to large CSV file)](https://chart-app.now.sh/ )
+#### URL: [Get Insight from Data (It might take few mins to load due to large CSV file)](https://saintaze.github.io/Air-pollution-Line-Chart/)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
